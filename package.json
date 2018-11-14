@@ -1,0 +1,20 @@
+{
+  "name": "docker-workshop",
+  "version": "1.0.0",
+  "description": "Docker Workshop for UF ACE 2018",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UF-ACE/docker-workshop.git"
+  },
+  "author": "ChristopherJMiller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UF-ACE/docker-workshop/issues"
+  },
+  "homepage": "https://github.com/UF-ACE/docker-workshop#readme"
+}
